@@ -10,6 +10,7 @@ Landing pages are the first impression of any pretigious company's web site, thi
 #### Build with
 
 * [HTML](https://www.theodinproject.com)
+*  [CSS](https://www.theodinproject.com)
 
 ## Let's Network
 
